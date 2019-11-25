@@ -1,2 +1,2 @@
-# About_Handong
-(About_Handong App and KakaoChatbot project for HGU students )
+# About-Handong
+(About-Handong App and KakaoChatbot project for HGU students )
