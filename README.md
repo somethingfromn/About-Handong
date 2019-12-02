@@ -25,6 +25,7 @@
 
 #### 03.12.2019
 -Changed the system showing like below images because Kakao recommend me to use the bottom button, then users can use it effectiently.
+
 -The bleow image is my chatbot version 1.1 (can do 'food', 'bus', 'about this app' and 'back home')
 
 
