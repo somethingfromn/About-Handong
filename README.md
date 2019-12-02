@@ -20,11 +20,13 @@
 (Can do 'food' and 'bus' function a little)
 
 ![photo 2](./01.12.2019.png ) 
-
 ![photo 3](./01.12.2019-(2).png ) 
 
 
+#### 03.12.2019
+-Changed the system showing like below images because Kakao recommend me to use the bottom button, then users can use it effectiently.
+-The bleow image is my chatbot version 1.1 (can do 'food', 'bus', 'about this app' and 'back home')
+
+
 ![photo 4](./03.12.2019.jpeg ) 
-
-
 ![photo 5](./03.12.2019-(2).png ) 
