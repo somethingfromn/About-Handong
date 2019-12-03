@@ -41,5 +41,5 @@ __[version 1.2]__
 
 -added 'Home' button at every functions
 
-![photo 6](./04.12.2019.jpeg ) 
+![photo 6](./04.12.2019.png ) 
 ![photo 7](./04.12.2019-(2).png ) 
