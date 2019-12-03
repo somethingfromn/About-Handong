@@ -30,7 +30,16 @@ __[version 1.1]__
 
 -Changed the system showing like below images because Kakao recommend me to use the bottom button, then users can use it effectiently.
 
-
-
 ![photo 4](./03.12.2019.jpeg ) 
 ![photo 5](./03.12.2019-(2).png ) 
+
+
+#### 04.12.2019 
+__[version 1.2]__ 
+
+-Added English version for international students
+
+-added 'Home' button at every functions
+
+![photo 6](./04.12.2019.jpeg ) 
+![photo 7](./04.12.2019-(2).png ) 
