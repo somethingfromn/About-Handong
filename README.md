@@ -39,7 +39,19 @@ __[version 1.2]__
 
 -Added English version for international students
 
--added 'Home' button at every functions
+-Added 'Home' button at every functions
 
 ![photo 6](/Image-sources/04.12.2019.png ) 
 ![photo 7](/Image-sources/04.12.2019-(2).png ) 
+
+
+#### 05.12.2019 
+__[version 1.3]__ 
+
+-Implemented delivery functions for students using this app efficently.
+
+-But still have a thought which way this app should be implemented by because there exist 'Handong App' which is really good for userinterface. So I need to implement this program by taking full of advantages of this Kaka I open builder.
+
+![photo 8](/Image-sources/05.12.2019.jpeg ) 
+![photo 9](/Image-sources/05.12.2019-(2).jpeg ) 
+![photo 10](/Image-sources/05.12.2019-(3).jpeg ) 
