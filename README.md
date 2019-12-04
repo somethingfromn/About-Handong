@@ -19,8 +19,8 @@ __[version 1.0__]
 
 (So finally, I could use machine-learning functions and API there)
 
-![photo 2](./01.12.2019.png ) 
-![photo 3](./01.12.2019-(2).png ) 
+![photo 2](/Image-sources/01.12.2019.png ) 
+![photo 3](/Image-sources/01.12.2019-(2).png ) 
 
 
 #### 03.12.2019 
@@ -30,8 +30,8 @@ __[version 1.1]__
 
 -Changed the system showing like below images because Kakao recommend me to use the bottom button, then users can use it effectiently.
 
-![photo 4](./03.12.2019.jpeg ) 
-![photo 5](./03.12.2019-(2).png ) 
+![photo 4](/Image-sources/03.12.2019.jpeg ) 
+![photo 5](/Image-sources/03.12.2019-(2).png ) 
 
 
 #### 04.12.2019 
@@ -41,5 +41,5 @@ __[version 1.2]__
 
 -added 'Home' button at every functions
 
-![photo 6](./04.12.2019.png ) 
-![photo 7](./04.12.2019-(2).png ) 
+![photo 6](/Image-sources/04.12.2019.png ) 
+![photo 7](/Image-sources/04.12.2019-(2).png ) 
