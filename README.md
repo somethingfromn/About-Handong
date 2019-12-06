@@ -55,3 +55,13 @@ __[version 1.3]__
 ![photo 8](/Image-sources/05.12.2019.jpeg ) 
 ![photo 9](/Image-sources/05.12.2019-(2).jpeg ) 
 ![photo 10](/Image-sources/05.12.2019-(3).jpeg ) 
+
+#### 06.12.2019 
+__[version 1.4]__ 
+
+-Implemented delivery functions by adding specific menu bottons, then user recognize directly what menus are in it.
+
+
+![photo 11](/Image-sources/06.12.2019.jpeg ) 
+![photo 12](/Image-sources/06.12.2019-(2).jpeg ) 
+
