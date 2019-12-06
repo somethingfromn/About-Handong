@@ -5,7 +5,7 @@
 ### Schedule
 
 #### 27.11.2019
--Edit the sentences as replies
+-Edit the sentences as replies.
 
 ![photo_1](/Image-sources/27.11.2019.png ) 
 
