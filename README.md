@@ -74,3 +74,14 @@ __[version 1.5]__
 
 ![photo 13](/Image-sources/06.12.2019-(3).jpeg ) 
 ![photo 14](/Image-sources/06.12.2019-(4).jpeg ) 
+
+#### 08.12.2019 
+__[version 1.8]__ 
+
+- "돈도니석쇠불고기" menu is 95% done, and I put "back" button at every selection.
+- added 2 buttons at the bottom for going back to app home and starter.
+
+
+![photo 15](/Image-sources/08.12.2019.jpeg ) 
+![photo 16](/Image-sources/08.12.2019-(2).jpeg ) 
+![photo 17](/Image-sources/08.12.2019-(3).jpeg ) 
