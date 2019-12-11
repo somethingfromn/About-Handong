@@ -87,7 +87,7 @@ __[version 1.8]__
 ![photo 17](/Image-sources/08.12.2019-(3).jpeg ) 
 
 #### 08.12.2019 
-__[version 1.8]__ 
+__[version 2.0]__ 
 
 - "삼촌네 찜닭" menu is 95% done, and need to put some photo on the menu.
 
