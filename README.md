@@ -85,3 +85,12 @@ __[version 1.8]__
 ![photo 15](/Image-sources/08.12.2019.jpeg ) 
 ![photo 16](/Image-sources/08.12.2019-(2).jpeg ) 
 ![photo 17](/Image-sources/08.12.2019-(3).jpeg ) 
+
+#### 08.12.2019 
+__[version 1.8]__ 
+
+- "삼촌네 찜닭" menu is 95% done, and need to put some photo on the menu.
+
+
+![photo 18](/Image-sources/12.12.2019.jpeg ) 
+![photo 19](/Image-sources/12.12.2019-(2).jpeg ) 
