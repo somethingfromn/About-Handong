@@ -101,5 +101,5 @@ __[version 2.1]__
 - "회초밥, 치킨, 떡볶이, 돈가스 등" menu is 95% done, and need to put some photo on the menu.
 
 
-![photo 20](/Image-sources/12.12.2019.jpeg ) 
-![photo 21](/Image-sources/12.12.2019-(2).jpeg ) 
+![photo 20](/Image-sources/22.12.2019.jpeg ) 
+![photo 21](/Image-sources/22.12.2019-(2).jpeg ) 
